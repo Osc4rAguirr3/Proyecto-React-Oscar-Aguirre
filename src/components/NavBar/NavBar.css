@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #f5f5f5;
+}
+
+.NavBarList ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.NavBarList li {
+    margin: 0 50px;
+}
+
+.NavBarList a {
+    text-decoration: none;
+    color: #333;
+}
